@@ -6,6 +6,6 @@
 
 Turns on the WIFI Hotspot and exits.
 
-EMDK API used is https://techdocs.zebra.com/emdk-for-android/13-0/mx/wifi/#hotspot-enabledisable
+The EMDK API used is https://techdocs.zebra.com/emdk-for-android/13-0/mx/wifi/#hotspot-enabledisable
 
   
